@@ -1,0 +1,1003 @@
+[
+    {
+      "refNo": "IN01566",
+      "tranType": "Invoice",
+      "tranDate": "27-05-2023",
+      "customerName": "អ៊ំ ទូច /Um Toch",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 2359,
+      "discount": 0,
+      "total": 2359
+    },
+    {
+      "refNo": "CS01565",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ណាន សុភា/Nan Sophea",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 18.4,
+      "discount": 0,
+      "total": 18.4
+    },
+    {
+      "refNo": "CS01564",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "អ៊ំ ទូច /Um Toch",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 18.4,
+      "discount": 0,
+      "total": 18.4
+    },
+    {
+      "refNo": "CS01562",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ណាន សុភា/Nan Sophea",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 64.4,
+      "discount": 0,
+      "total": 64.4
+    },
+    {
+      "refNo": "CS01561",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ណាន សុភា/Nan Sophea",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 475,
+      "discount": 0,
+      "total": 475
+    },
+    {
+      "refNo": "CS01560",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ហេង​ ឧត្តម/HENG OUDOM",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 64.4,
+      "discount": 0,
+      "total": 64.4
+    },
+    {
+      "refNo": "CS01559",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ហេង​ ឧត្តម/HENG OUDOM",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 475,
+      "discount": 0,
+      "total": 475
+    },
+    {
+      "refNo": "CS01558",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "មុី មុនថា / Mey muntha",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 27.6,
+      "discount": 0,
+      "total": 27.6
+    },
+    {
+      "refNo": "CS01557",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "មុី មុនថា / Mey muntha",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 253,
+      "discount": 0,
+      "total": 253
+    },
+    {
+      "refNo": "CS01556",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "តាន់ មិនា / Tan minea",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 9.2,
+      "discount": 0,
+      "total": 9.2
+    },
+    {
+      "refNo": "CS01555",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "តាន់ មិនា / Tan minea",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 332.5,
+      "discount": 0,
+      "total": 332.5
+    },
+    {
+      "refNo": "CS01554",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "លាង​​ លីហោ​ /Leang lyhuo",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 11.7,
+      "discount": 0,
+      "total": 11.7
+    },
+    {
+      "refNo": "CS01553",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "សារិន​ យូរ៉ា​ / sarin yura",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 9.2,
+      "discount": 0,
+      "total": 9.2
+    },
+    {
+      "refNo": "CS01552",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "សារិន​ យូរ៉ា​ / sarin yura",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 937.5,
+      "discount": 0,
+      "total": 937.5
+    },
+    {
+      "refNo": "CS01551",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ចែ ឡាត់​ /Che Lath",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 35.4,
+      "discount": 0,
+      "total": 35.4
+    },
+    {
+      "refNo": "CS01550",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ចែ ឡាត់​ /Che Lath",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 1210,
+      "discount": 0,
+      "total": 1210
+    },
+    {
+      "refNo": "CS01549",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ចែស្រីមុំ /​ Che Sreymom",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 92,
+      "discount": 0,
+      "total": 92
+    },
+    {
+      "refNo": "CS01548",
+      "tranType": "Cash_Sale",
+      "tranDate": "27-05-2023",
+      "customerName": "ចែស្រីមុំ /​ Che Sreymom",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 1472.5,
+      "discount": 0,
+      "total": 1472.5
+    },
+    {
+      "refNo": "CS01547",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "ចែ មាស / Che Meas",
+      "employeeName": "រុន សារិន",
+      "subTotal": 46,
+      "discount": 0,
+      "total": 46
+    },
+    {
+      "refNo": "CS01546",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "មាស ចរិយា /​​ Meas Chakriya",
+      "employeeName": "រុន សារិន",
+      "subTotal": 1662.5,
+      "discount": 0,
+      "total": 1662.5
+    },
+    {
+      "refNo": "CS01545",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "កូនអុីសុខា /​​ Kon E Sokha",
+      "employeeName": "រុន សារិន",
+      "subTotal": 27.6,
+      "discount": 0,
+      "total": 27.6
+    },
+    {
+      "refNo": "CS01544",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "កូនអុីសុខា /​​ Kon E Sokha",
+      "employeeName": "រុន សារិន",
+      "subTotal": 997.5,
+      "discount": 0,
+      "total": 997.5
+    },
+    {
+      "refNo": "CS01543",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "សៀន ណារិន​/Sean narin",
+      "employeeName": "រុន សារិន",
+      "subTotal": 21,
+      "discount": 0,
+      "total": 21
+    },
+    {
+      "refNo": "CS01542",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "សៀន ណារិន​/Sean narin",
+      "employeeName": "រុន សារិន",
+      "subTotal": 566,
+      "discount": 0,
+      "total": 566
+    },
+    {
+      "refNo": "CS01541",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "ចែទុំ /​​ Che Tum",
+      "employeeName": "រុន សារិន",
+      "subTotal": 44.3,
+      "discount": 0,
+      "total": 44.3
+    },
+    {
+      "refNo": "CS01540",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "ចែទុំ /​​ Che Tum",
+      "employeeName": "រុន សារិន",
+      "subTotal": 1542.5,
+      "discount": 0,
+      "total": 1542.5
+    },
+    {
+      "refNo": "CS01536",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "ចែ សុខលី/Che Sokly",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 289.66,
+      "discount": 0,
+      "total": 289.66
+    },
+    {
+      "refNo": "CS01539",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "ចែ អុីង/ Che Aeng",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 9.2,
+      "discount": 0,
+      "total": 9.2
+    },
+    {
+      "refNo": "IN01538",
+      "tranType": "Invoice",
+      "tranDate": "26-05-2023",
+      "customerName": "ចែ អុីង/ Che Aeng",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 1542.5,
+      "discount": 0,
+      "total": 1542.5
+    },
+    {
+      "refNo": "CS01537",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "ម៉ូយរាយ",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 49.6,
+      "discount": 0,
+      "total": 49.6
+    },
+    {
+      "refNo": "IN01535",
+      "tranType": "Invoice",
+      "tranDate": "26-05-2023",
+      "customerName": "ម៉ូយរាយ",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 4.8,
+      "discount": 0,
+      "total": 4.8
+    },
+    {
+      "refNo": "CS01534",
+      "tranType": "Cash_Sale",
+      "tranDate": "26-05-2023",
+      "customerName": "ស៊ាន ចាន់ធឿន / Sean Chanthoeun",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 605,
+      "discount": 0,
+      "total": 605
+    },
+    {
+      "refNo": "CS01533",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "បែក​ខូច/​ដកយកប្រើ",
+      "employeeName": "Che Sivheang",
+      "subTotal": 9.2,
+      "discount": 0,
+      "total": 9.2
+    },
+    {
+      "refNo": "IN01532",
+      "tranType": "Invoice",
+      "tranDate": "25-05-2023",
+      "customerName": "គន្ធា /kunthea",
+      "employeeName": "ប៊ន គន្ធា",
+      "subTotal": 24.2,
+      "discount": 0,
+      "total": 24.2
+    },
+    {
+      "refNo": "CS01531",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ម៉ាក់ស៊ូសុីន / Mak susin",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 307.06,
+      "discount": 0,
+      "total": 307.06
+    },
+    {
+      "refNo": "CS01530",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "វណ្ណាស្រីង៉ាត​​ / Vanna Sreyngeat",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 9.2,
+      "discount": 0,
+      "total": 9.2
+    },
+    {
+      "refNo": "CS01529",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "វណ្ណាស្រីង៉ាត​​ / Vanna Sreyngeat",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 332.5,
+      "discount": 0,
+      "total": 332.5
+    },
+    {
+      "refNo": "CS01528",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ចែហ៊ុម /​​ Che Horm",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 35.1,
+      "discount": 0,
+      "total": 35.1
+    },
+    {
+      "refNo": "CS01527",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ចែហ៊ុម /​​ Che Horm",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 1210,
+      "discount": 0,
+      "total": 1210
+    },
+    {
+      "refNo": "CS01526",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "សីហា​ បុផ្ផា /​ Seyha Bopha",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 27.6,
+      "discount": 0,
+      "total": 27.6
+    },
+    {
+      "refNo": "CS01525",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "សីហា​ បុផ្ផា /​ Seyha Bopha",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 237.5,
+      "discount": 0,
+      "total": 237.5
+    },
+    {
+      "refNo": "CS01524",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ចែ ឡាត់​ /Che Lath",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 64.4,
+      "discount": 0,
+      "total": 64.4
+    },
+    {
+      "refNo": "CS01523",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ចែ ឡាត់​ /Che Lath",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 475,
+      "discount": 0,
+      "total": 475
+    },
+    {
+      "refNo": "CS01522",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ពូប្រុស/Pubros",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 11.8,
+      "discount": 0,
+      "total": 11.8
+    },
+    {
+      "refNo": "CS01521",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ពូប្រុស/Pubros",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 605,
+      "discount": 0,
+      "total": 605
+    },
+    {
+      "refNo": "CS01520",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "លាង​​ លីហោ​ /Leang lyhuo",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01519",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "នាងចែ/NEANG CHE",
+      "employeeName": "រុន សារិន",
+      "subTotal": 35.1,
+      "discount": 0,
+      "total": 35.1
+    },
+    {
+      "refNo": "CS01518",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "នាងចែ/NEANG CHE",
+      "employeeName": "រុន សារិន",
+      "subTotal": 1210,
+      "discount": 0,
+      "total": 1210
+    },
+    {
+      "refNo": "CS01517",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ចែ សំអិត/CHE SOMOIT",
+      "employeeName": "រុន សារិន",
+      "subTotal": 9.2,
+      "discount": 0,
+      "total": 9.2
+    },
+    {
+      "refNo": "CS01516",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ចែ សំអិត/CHE SOMOIT",
+      "employeeName": "រុន សារិន",
+      "subTotal": 332.5,
+      "discount": 0,
+      "total": 332.5
+    },
+    {
+      "refNo": "CS01515",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "នី​​ ស្រីពៅ/ Ny Sreypov",
+      "employeeName": "រុន សារិន",
+      "subTotal": 5.6,
+      "discount": 0,
+      "total": 5.6
+    },
+    {
+      "refNo": "CS01514",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "នី​​ ស្រីពៅ/ Ny Sreypov",
+      "employeeName": "រុន សារិន",
+      "subTotal": 155,
+      "discount": 0,
+      "total": 155
+    },
+    {
+      "refNo": "CS01513",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ចែ​ ពៅ /Che Pov",
+      "employeeName": "រុន សារិន",
+      "subTotal": 18.4,
+      "discount": 0,
+      "total": 18.4
+    },
+    {
+      "refNo": "CS01512",
+      "tranType": "Cash_Sale",
+      "tranDate": "25-05-2023",
+      "customerName": "ចែ​ ពៅ /Che Pov",
+      "employeeName": "រុន សារិន",
+      "subTotal": 3085,
+      "discount": 0,
+      "total": 3085
+    },
+    {
+      "refNo": "CS01502",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "នី​​ ស្រីពៅ/ Ny Sreypov",
+      "employeeName": "រុន សារិន",
+      "subTotal": 64.4,
+      "discount": 0,
+      "total": 64.4
+    },
+    {
+      "refNo": "CS01501",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "នី​​ ស្រីពៅ/ Ny Sreypov",
+      "employeeName": "រុន សារិន",
+      "subTotal": 475,
+      "discount": 0,
+      "total": 475
+    },
+    {
+      "refNo": "CS01500",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "ចែធា / Che Thea",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 120.5,
+      "discount": 0,
+      "total": 120.5
+    },
+    {
+      "refNo": "CS01498",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "ផុន​ ពៅ/ Pun Pov",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 9.2,
+      "discount": 0,
+      "total": 9.2
+    },
+    {
+      "refNo": "CS01497",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "ផុន​ ពៅ/ Pun Pov",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 332.5,
+      "discount": 0,
+      "total": 332.5
+    },
+    {
+      "refNo": "CS01496",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "ចែ ថូ/CHE THO",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 9.2,
+      "discount": 0,
+      "total": 9.2
+    },
+    {
+      "refNo": "CS01495",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "ចែ ថូ/CHE THO",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 332.5,
+      "discount": 0,
+      "total": 332.5
+    },
+    {
+      "refNo": "IN01511",
+      "tranType": "Invoice",
+      "tranDate": "24-05-2023",
+      "customerName": "គន្ធា /kunthea",
+      "employeeName": "ប៊ន គន្ធា",
+      "subTotal": 40.6,
+      "discount": 0,
+      "total": 40.6
+    },
+    {
+      "refNo": "CS01510",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "ក្រុមហ៊ុនខ្ចី ស្តុក",
+      "employeeName": "General",
+      "subTotal": 598,
+      "discount": 0,
+      "total": 598
+    },
+    {
+      "refNo": "CS01509",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "កុសល​​ ផល/ kosal Phol",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 237.5,
+      "discount": 0,
+      "total": 237.5
+    },
+    {
+      "refNo": "CS01508",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "រុន ស្រីលក្ខ័/ Run Sreyleak",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 48.6,
+      "discount": 0,
+      "total": 48.6
+    },
+    {
+      "refNo": "CS01507",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "រុន ស្រីលក្ខ័/ Run Sreyleak",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 1780,
+      "discount": 0,
+      "total": 1780
+    },
+    {
+      "refNo": "CS01506",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "គ្រូ​ ផាន់នី/KRU PHANNY",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 73.6,
+      "discount": 0,
+      "total": 73.6
+    },
+    {
+      "refNo": "CS01505",
+      "tranType": "Cash_Sale",
+      "tranDate": "24-05-2023",
+      "customerName": "គ្រូ​ ផាន់នី/KRU PHANNY",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 807.5,
+      "discount": 0,
+      "total": 807.5
+    },
+    {
+      "refNo": "IN01504",
+      "tranType": "Invoice",
+      "tranDate": "24-05-2023",
+      "customerName": "ចែនី / Che Ny",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 1270.5,
+      "discount": 0,
+      "total": 1270.5
+    },
+    {
+      "refNo": "IN01503",
+      "tranType": "Invoice",
+      "tranDate": "24-05-2023",
+      "customerName": "ចែធា / Che Thea",
+      "employeeName": "អុឹម សុវណ្ណឌី",
+      "subTotal": 2990,
+      "discount": 0,
+      "total": 2990
+    },
+    {
+      "refNo": "CS01485",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "វូដកា ស្រាក្រឡុក",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 31,
+      "discount": 0,
+      "total": 31
+    },
+    {
+      "refNo": "CS01484",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "ម៉ូយរាយ",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 27.6,
+      "discount": 0,
+      "total": 27.6
+    },
+    {
+      "refNo": "CS01483",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "ម៉ូយរាយ",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 237.5,
+      "discount": 0,
+      "total": 237.5
+    },
+    {
+      "refNo": "CS01482",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "ម៉ូយរាយ",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 27.6,
+      "discount": 0,
+      "total": 27.6
+    },
+    {
+      "refNo": "CS01481",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "ម៉ូយរាយ",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 237.5,
+      "discount": 0,
+      "total": 237.5
+    },
+    {
+      "refNo": "CS01480",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "ចែវណ្ណា/ CHEVANNA",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 8.48,
+      "discount": 0,
+      "total": 8.48
+    },
+    {
+      "refNo": "IN01494",
+      "tranType": "Invoice",
+      "tranDate": "23-05-2023",
+      "customerName": "ម៉ូយរាយ",
+      "employeeName": "Che Sivheang",
+      "subTotal": 9.6,
+      "discount": 0,
+      "total": 9.6
+    },
+    {
+      "refNo": "IN01493",
+      "tranType": "Invoice",
+      "tranDate": "23-05-2023",
+      "customerName": "បង​ វឿន / Bong voeun",
+      "employeeName": "រុន សារិន",
+      "subTotal": 1210,
+      "discount": 0,
+      "total": 1210
+    },
+    {
+      "refNo": "CS01492",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "គ្រឿន បូរី",
+      "employeeName": "រុន សារិន",
+      "subTotal": 190,
+      "discount": 0,
+      "total": 190
+    },
+    {
+      "refNo": "CS01491",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "ម៉ូយរាយ",
+      "employeeName": "រុន សារិន",
+      "subTotal": 371.5,
+      "discount": 0,
+      "total": 371.5
+    },
+    {
+      "refNo": "CS01490",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "រុណ ហេង/Run heng",
+      "employeeName": "រុន សារិន",
+      "subTotal": 155.5,
+      "discount": 0,
+      "total": 155.5
+    },
+    {
+      "refNo": "CS01489",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "ចែ ផល្លីន​ /Che phorllin",
+      "employeeName": "រុន សារិន",
+      "subTotal": 82.1,
+      "discount": 0,
+      "total": 82.1
+    },
+    {
+      "refNo": "CS01488",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "ចែ ផល្លីន​ /Che phorllin",
+      "employeeName": "រុន សារិន",
+      "subTotal": 31,
+      "discount": 0,
+      "total": 31
+    },
+    {
+      "refNo": "CS01487",
+      "tranType": "Cash_Sale",
+      "tranDate": "23-05-2023",
+      "customerName": "បង​ វឿន / Bong voeun",
+      "employeeName": "រុន សារិន",
+      "subTotal": 35.1,
+      "discount": 0,
+      "total": 35.1
+    },
+    {
+      "refNo": "CS01421",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "វណ្ណា​ ផាន់ណា​​​ / Vanna Phanna",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 11.8,
+      "discount": 0,
+      "total": 11.8
+    },
+    {
+      "refNo": "CS01420",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "វណ្ណា​ ផាន់ណា​​​ / Vanna Phanna",
+      "employeeName": "្ហញិល​ ដារ៉ូ",
+      "subTotal": 605,
+      "discount": 0,
+      "total": 605
+    },
+    {
+      "refNo": "CS01466",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "ក្រុមហ៊ុនKHB",
+      "employeeName": "មាន គឹមលាង",
+      "subTotal": 0,
+      "discount": 0,
+      "total": 0
+    },
+    {
+      "refNo": "CS01465",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "ចែ​ សាវៃ ផ្សារមោ / Che Savai",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01464",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "ចែ សុខហេង / Che Sokheng",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01463",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "លឿប​ ចំរើន/LORUM CHOMRERN",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01462",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "ចែ សំអិត/CHE SOMOIT",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01461",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "វុន សុភាវីTH SOPHEAVY",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01460",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "គ្រឿន បូរី",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01459",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "លឿប​ ចំរើន/LORUM CHOMRERN",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01458",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "ចែ លីន/ CHE LIN",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "CS01457",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "ចែ សុខហេង / Che Sokheng",
+      "employeeName": "sale KHB",
+      "subTotal": 23.6,
+      "discount": 0,
+      "total": 23.6
+    },
+    {
+      "refNo": "IN01457",
+      "tranType": "Invoice",
+      "tranDate": "22-05-2023",
+      "customerName": "យឹម ឆវី /​ Yim Chhorvy",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 665,
+      "discount": 0,
+      "total": 665
+    },
+    {
+      "refNo": "IN01454",
+      "tranType": "Invoice",
+      "tranDate": "22-05-2023",
+      "customerName": "ចែ ឡាត់​ /Che Lath",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 93,
+      "discount": 0,
+      "total": 93
+    },
+    {
+      "refNo": "CS01456",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "សារិន​ យូរ៉ា​ / sarin yura",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 11.8,
+      "discount": 0,
+      "total": 11.8
+    },
+    {
+      "refNo": "CS01455",
+      "tranType": "Cash_Sale",
+      "tranDate": "22-05-2023",
+      "customerName": "ចែ ឡាត់​ /Che Lath",
+      "employeeName": "ភឿន​ សុផាត់",
+      "subTotal": 2.8,
+      "discount": 0,
+      "total": 2.8
+    }
+  ]
+  
