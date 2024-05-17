@@ -136,7 +136,11 @@ const groupedTransactions = computed(() => {
     groups[transaction.employeeName].totalQty += transaction.subTotal;
     groups[transaction.employeeName].totalAmount += transaction.total;
   });
-
+  for (const group of Object.values(groups)) {
+    group.totalAmount = Math.round(group.totalAmount);
+    group.totalQty = Math.round(group.totalQty);
+  }
+  
   return Object.values(groups);
 });
 
